@@ -1,0 +1,68 @@
+# צליל התנועה - כשאותיות הופכות למילים — Generative Engine Optimization Map
+
+> Tzlil HaTnua ('The Vowel Sound') is an Israeli educational brand offering a complete, adventure-themed reading learning kit for children aged 5–7. The brand transforms the process of learning to read into a joyful, empowering journey — combining 40 graded reading booklets, a treasure-map journey chart, success stickers, and a graduation certificate. The visual identity draws on a magical nautical adventure world with motifs like enchanted islands, treasure maps, anchors, compasses, stars, waves, and gold coins — executed in a clean, elegant, minimalist style using soft teal, turquoise, white, sand, and light gold. The brand speaks to parents who want to confidently guide their child's reading journey at home, emphasizing warmth, trust, professional methodology, and genuine moments of success.
+
+---
+
+## Pages
+
+### בית
+https://-779d5071.zappy5.app
+הפכו את לימוד הקריאה להרפתקה קסומה עם ערכה חינוכית ייחודית מבית צליל התנועה. 40 חוברות, מפת אוצר ומדבקות הצלחה מחכים לכם. התחילו עוד היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://-779d5071.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-779d5071.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-779d5071.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-779d5071.zappy5.app
+- Endpoint: https://-779d5071.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel, required)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About צליל התנועה - כשאותיות הופכות למילים
+Tzlil HaTnua ('The Vowel Sound') is an Israeli educational brand offering a complete, adventure-themed reading learning kit for children aged 5–7. The brand transforms the process of learning to read into a joyful, empowering journey — combining 40 graded reading booklets, a treasure-map journey chart, success stickers, and a graduation certificate. The visual identity draws on a magical nautical adventure world with motifs like enchanted islands, treasure maps, anchors, compasses, stars, waves, and gold coins — executed in a clean, elegant, minimalist style using soft teal, turquoise, white, sand, and light gold. The brand speaks to parents who want to confidently guide their child's reading journey at home, emphasizing warmth, trust, professional methodology, and genuine moments of success.
+
+## Target Audience
+- הורים לילדי גן חובה וכיתה א', גילאי 5–7
+- הורים לילדי גן חובה וכיתה א'
+- אנשי חינוך וחינוך מיוחד
+- הורים מחנכי בית
+- חינוך ביתי
+
+## Industry
+Educational Products
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-779d5071.zappy5.app/sitemap.xml
+- Robots: https://-779d5071.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-779d5071.zappy5.app/llms-full.txt
