@@ -2094,7 +2094,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 100px 24px 0;
+  padding: 20px 24px 0px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -2108,7 +2108,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: var(--radius-card, 8px);
   border: 1px solid var(--border-light, #E8E0D3);
   box-shadow: 0 8px 32px rgba(26, 74, 74, 0.12);
-  padding: 28px 48px 40px;
+  padding: 12px 48px 40px;
   max-width: 620px;
   width: 100%;
   color: var(--text-dark);
@@ -2264,16 +2264,16 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section__content {
-    padding: 0 16px;
-    justify-content: center;
-  }
+  padding: 10px 16px 0px;
+  justify-content: center;
+}
 
   .index-hero-section__card {
-    padding: 32px 24px 28px;
-    max-width: 100%;
-    gap: 18px;
-    margin-inline: 0;
-  }
+  padding: 10px 24px 28px;
+  max-width: 100%;
+  gap: 18px;
+  margin-inline: 0;
+}
 
   .index-hero-section__card-accent {
     top: -16px;
