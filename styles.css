@@ -2093,7 +2093,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 20px 24px 0px;
+  padding: 0px 24px 0px;
   display: flex;
   justify-content: flex-start;
   align-items: center;
@@ -2107,7 +2107,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: var(--radius-card, 8px);
   border: 1px solid var(--border-light, #E8E0D3);
   box-shadow: 0 8px 32px rgba(26, 74, 74, 0.12);
-  padding: 12px 48px 40px;
+  padding: 0px 48px 40px;
   max-width: 620px;
   width: 100%;
   color: var(--text-dark);
