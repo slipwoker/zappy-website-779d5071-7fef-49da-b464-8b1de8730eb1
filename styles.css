@@ -2101,8 +2101,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .index-hero-section__card {
   position: relative;
-  background: rgba(255, 253, 252, 0.92);
-  backdrop-filter: blur(12px);
+  background: rgba(255, 253, 252, 0.75);
+  backdrop-filter: blur(8px);
   -webkit-backdrop-filter: blur(12px);
   border-radius: var(--radius-card, 8px);
   border: 1px solid var(--border-light, #E8E0D3);
