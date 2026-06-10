@@ -2049,13 +2049,12 @@ html[dir="rtl"] .site-footer .footer-col:nth-child(3) .footer-contact li {
 html[dir="rtl"] .footer-contact .contact-icon { order: 0 !important; }
 html[dir="rtl"] .footer-contact .contact-text { order: 1 !important; }
 html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
-/* hero */
 .index-hero-section {
   position: relative;
   width: 100%;
-  min-height: 100vh;
+  min-height: auto;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   background-color: #1A4A4A;
   color: var(--text-dark);
   overflow: hidden;
@@ -2257,11 +2256,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 @media (max-width: 768px) {
   .index-hero-section {
-    min-height: auto;
-    padding-bottom: 80px;
-    align-items: flex-start;
-    padding-top: 100px;
-  }
+  min-height: auto;
+  padding-bottom: 80px;
+  align-items: flex-start;
+  padding-top: 100px;
+}
 
   .index-hero-section__content {
   padding: 10px 16px 0px;
