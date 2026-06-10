@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/sitemap.xml
+Sitemap: https://tzlil-hatnua.co.il/sitemap.xml

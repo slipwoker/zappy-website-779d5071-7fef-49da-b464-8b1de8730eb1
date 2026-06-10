@@ -7,21 +7,21 @@
 ## Pages
 
 ### בית
-https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app
+https://tzlil-hatnua.co.il
 הפכו את לימוד הקריאה להרפתקה קסומה עם ערכה חינוכית ייחודית מבית צליל התנועה. 40 חוברות, מפת אוצר ומדבקות הצלחה מחכים לכם. התחילו עוד היום!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/privacy
+https://tzlil-hatnua.co.il/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/terms
+https://tzlil-hatnua.co.il/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/accessibility
+https://tzlil-hatnua.co.il/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -31,8 +31,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app
-- Endpoint: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/api/email/contact-form
+- URL: https://tzlil-hatnua.co.il
+- Endpoint: https://tzlil-hatnua.co.il/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -63,6 +63,6 @@ Educational Products
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/sitemap.xml
-- Robots: https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://tzlil-hatenuah-ksheotiyot-h-le.zappy5.app/llms-full.txt
+- Sitemap (XML): https://tzlil-hatnua.co.il/sitemap.xml
+- Robots: https://tzlil-hatnua.co.il/robots.txt
+- Flattened page text (for LLMs): https://tzlil-hatnua.co.il/llms-full.txt
