@@ -2812,7 +2812,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .index-showcase-section__secondary-tile {
   position: absolute;
-  bottom: -24px;
+  bottom: -48px;
   inset-inline-end: -30px;
   width: 55%;
   aspect-ratio: 3/2;
