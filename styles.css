@@ -2109,7 +2109,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border: 1px solid var(--border-light, #E8E0D3);
   box-shadow: 0 8px 32px rgba(26, 74, 74, 0.12);
   padding: 48px 48px 40px;
-  max-width: 420px;
+  max-width: 480px;
   width: 100%;
   color: var(--text-dark);
   display: flex;
@@ -4017,13 +4017,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 }
 
 
-/* Logo size constraint - enforce max-height only */
-.logo, img.logo, .logo img, .logo-link img, .nav-brand img {
-  max-height: 40px !important;
-  height: auto !important;
-  width: auto !important;
-  object-fit: contain !important;
-}
+
 
 
 /* Footer contact alignment fix */
@@ -4896,11 +4890,21 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 .index-hero-section__card {
   margin-inline-end: 80px !important;
 }
-
-.index-hero-section__card {
-  margin-inline-end: 20px !important;
-  max-width: 400px !important;
+/* Zappy custom logo size (desktop only — mobile stays at 110px/35px) */
+@media (min-width: 769px) {
+  .logo, img.logo, .logo img, .logo-link img, .nav-brand img {
+    max-height: none !important;
+    height: 52px !important;
+    max-width: 208px !important;
+    width: auto !important;
+    object-fit: contain !important;
+  }
+  .nav-container {
+    min-height: 82px !important;
+  }
 }
+/* /Zappy custom logo size */
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
