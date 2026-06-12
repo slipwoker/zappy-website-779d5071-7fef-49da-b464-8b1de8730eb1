@@ -4908,6 +4908,32 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
 }
 /* /Zappy custom logo size */
 
+
+@media (max-width: 768px) {
+.index-showcase-section__secondary-tile {
+  position: relative !important;
+  bottom: auto !important;
+  right: auto !important;
+  left: auto !important;
+  inset-inline-end: auto !important;
+  width: 45% !important;
+  max-width: 180px !important;
+  margin-top: -30px !important;
+  margin-inline-start: auto !important;
+  z-index: 2 !important;
+}
+
+.index-showcase-section__imagery {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  padding-bottom: 0 !important;
+}
+
+.index-showcase-section__main-image-wrap {
+  width: 100% !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
