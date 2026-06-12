@@ -4934,6 +4934,21 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   width: 100% !important;
 }
 }
+
+@media (max-width: 768px) {
+.index-showcase-section__secondary-tile {
+  position: relative !important;
+  bottom: auto !important;
+  right: auto !important;
+  left: auto !important;
+  width: 40% !important;
+  max-width: 150px !important;
+  margin-top: -25px !important;
+  margin-inline-start: auto !important;
+  margin-inline-end: 0 !important;
+  z-index: 2 !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
