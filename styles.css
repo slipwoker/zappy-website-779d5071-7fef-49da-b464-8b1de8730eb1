@@ -2821,7 +2821,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   overflow: hidden;
   box-shadow: var(--shadow-card);
   background-color: var(--bg-light);
-  border: none;
+  border: 3px solid var(--bg-light);
 }
 
 .index-showcase-section__secondary-tile img {
