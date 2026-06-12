@@ -2820,8 +2820,8 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: var(--radius-img);
   overflow: hidden;
   box-shadow: var(--shadow-card);
-  background-color: transparent;
-  border: none;
+  background-color: var(--bg-light);
+  border: 3px solid var(--bg-light);
 }
 
 .index-showcase-section__secondary-tile img {
