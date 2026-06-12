@@ -2812,22 +2812,23 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 .index-showcase-section__secondary-tile {
   position: absolute;
-  bottom: -48px;
-  inset-inline-end: -30px;
-  width: 55%;
-  aspect-ratio: 3/2;
+  bottom: -60px;
+  inset-inline-end: -40px;
+  width: 75%;
+  aspect-ratio: auto;
   z-index: 3;
   border-radius: var(--radius-img);
   overflow: hidden;
   box-shadow: var(--shadow-card);
   background-color: var(--bg-light);
   border: 3px solid var(--bg-light);
+  height: auto;
 }
 
 .index-showcase-section__secondary-tile img {
   width: 100%;
   height: 100%;
-  object-fit: contain;
+  object-fit: cover;
   display: block;
 }
 
