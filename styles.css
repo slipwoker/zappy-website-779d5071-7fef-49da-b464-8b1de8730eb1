@@ -2993,20 +2993,21 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-showcase-section__imagery {
-    max-width: 100%;
-    margin-inline: 0;
-  }
+  max-width: 100%;
+  margin-inline: 0;
+  padding-bottom: 80px;
+}
 
   .index-showcase-section__main-image-wrap {
     aspect-ratio: 4/3;
   }
 
   .index-showcase-section__secondary-tile {
-    bottom: -16px;
-    inset-inline-end: -16px;
-    width: 50%;
-    border-width: 2px;
-  }
+  bottom: -16px;
+  inset-inline-end: -16px;
+  width: 50%;
+  border-width: 2px;
+}
 
   .index-showcase-section__tertiary-tile {
     top: -14px;
