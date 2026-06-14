@@ -622,8 +622,8 @@ tzlil.hatnua@gmail.com
 #### צור קשר
 
 - tzlil.hatnua@gmail.com
-- [business_phone]
-- [business_address]
+-
+-
 
 
 
@@ -878,8 +878,8 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 #### צור קשר
 
 - tzlil.hatnua@gmail.com
-- [business_phone]
-- [business_address]
+-
+-
 
 
 
@@ -1143,8 +1143,8 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 #### צור קשר
 
 - tzlil.hatnua@gmail.com
-- [business_phone]
-- [business_address]
+-
+-
 
 
 
@@ -1427,8 +1427,8 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 #### צור קשר
 
 - tzlil.hatnua@gmail.com
-- [business_phone]
-- [business_address]
+-
+-
 
 
 
