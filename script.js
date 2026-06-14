@@ -1455,6 +1455,11 @@ window.onload = function() {
 /* === NAVBAR SCROLL JS OVERRIDE END === */
 
 
+/* Added Component Script */
+// No JavaScript required for this static showcase section.
+// Floating card uses CSS hover for subtle interaction.
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
