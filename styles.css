@@ -2796,11 +2796,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   position: relative;
   z-index: 1;
   border-radius: var(--radius-img);
-  overflow: hidden;
+  overflow: visible;
   box-shadow: var(--shadow-card);
   background-color: var(--bg-light);
   width: 100%;
-  aspect-ratio: 3/2;
+  aspect-ratio: auto;
 }
 
 .index-showcase-section__main-image-wrap img {
