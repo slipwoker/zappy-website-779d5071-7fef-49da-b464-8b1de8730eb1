@@ -2999,7 +2999,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   .index-showcase-section__imagery {
   max-width: 100%;
   margin-inline: 0;
-  padding-bottom: 80px;
+  padding-bottom: 0px;
 }
 
   .index-showcase-section__main-image-wrap {
