@@ -5281,6 +5281,19 @@ html, body {
   gap: 24px !important;
 }
 }
+
+.index-hero-section__trust {
+  flex-direction: column !important;
+  align-items: flex-start !important;
+  justify-content: center !important;
+  gap: 6px !important;
+  width: 100% !important;
+}
+
+.index-hero-section__trust-item {
+  width: 100% !important;
+  justify-content: flex-start !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
