@@ -2270,10 +2270,13 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section__card {
-  padding: 24px 20px 20px;
-  max-width: 340px;
+  padding: 16px 14px 16px;
+  max-width: fit-content;
   gap: 14px;
   margin-inline: 0;
+  margin-left: auto;
+  margin-right: 8px;
+  width: auto;
 }
 
   .index-hero-section__card-accent {
