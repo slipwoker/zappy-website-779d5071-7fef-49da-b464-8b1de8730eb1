@@ -2213,10 +2213,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  gap: 24px;
+  gap: 16px;
   margin-top: 8px;
   padding-top: 16px;
   border-top: 1px solid var(--border-light, #E8E0D3);
+  justify-content: center;
 }
 
 .index-hero-section__trust-item {
