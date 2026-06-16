@@ -5220,6 +5220,63 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
     font-size: 1.4rem;
   }
 }
+
+html, body {
+  overflow-x: clip !important;
+}
+
+@media (max-width: 768px) {
+.index-hero-section__card,
+  .index-features-section__container,
+  .index-showcase-section__container,
+  .index-testimonials-section__container,
+  .index-contact-section__container,
+  .layout-section .container {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding-left: 16px !important;
+  padding-right: 16px !important;
+  box-sizing: border-box !important;
+}
+
+.index-showcase-section__imagery {
+  max-width: 100% !important;
+  width: 100% !important;
+  overflow: hidden !important;
+}
+
+.index-showcase-section__main-image-wrap,
+  .index-showcase-section__secondary-image-wrap {
+  max-width: 100% !important;
+  width: 100% !important;
+  overflow: hidden !important;
+}
+
+.index-hero-section__content {
+  padding: 16px !important;
+}
+
+.index-contact-section__form-card {
+  padding: 20px !important;
+}
+
+.index-contact-section__form-input,
+  .index-contact-section__form-textarea {
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+.index-features-section__card {
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+.index-features-section__grid {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 24px !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
