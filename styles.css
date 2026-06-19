@@ -5354,6 +5354,28 @@ html body .index-hero-section__card h3.index-hero-section__subtitle {
 html body #zappy-section-4.index-hero-section__card { max-width: 88vw !important; }
 html body #zappy-section-4.index-hero-section__card { width: auto !important; }
 
+
+#zappy-section-4 p[data-zappy-text-width="custom"] > span:first-of-type {
+  font-size: 1.3rem !important;
+  font-weight: 700 !important;
+  color: var(--accent-color) !important;
+  display: block !important;
+  text-align: center !important;
+  margin-bottom: 6px !important;
+  letter-spacing: 0.01em !important;
+}
+
+#zappy-section-4.index-hero-section__card {
+  gap: 10px !important;
+}
+
+#zappy-section-4.index-hero-section__card h2 {
+  margin-bottom: 2px !important;
+}
+
+#zappy-section-4.index-hero-section__card p {
+  margin-bottom: 2px !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
