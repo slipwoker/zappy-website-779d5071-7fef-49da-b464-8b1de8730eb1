@@ -5296,6 +5296,39 @@ html, body {
 }
 /* /Zappy custom logo size */
 
+
+.index-hero-section__card {
+  padding: 16px 20px !important;
+  max-width: 380px !important;
+}
+
+.index-hero-section__card h2 {
+  font-size: 1.2rem !important;
+}
+
+.index-hero-section__card h3.index-hero-section__subtitle {
+  font-size: 0.8rem !important;
+  line-height: 1.3 !important;
+}
+
+.index-hero-section__card .index-hero-section__trust-item h3 small {
+  font-size: 0.7rem !important;
+}
+
+.index-hero-section__card .index-hero-section__trust {
+  gap: 8px !important;
+}
+
+.index-hero-section__card .index-hero-section__actions {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+}
+/* zappy-self-heal */
+.index-hero-section__card h3.index-hero-section__subtitle { line-height: 1.3 !important; }
+
+/* zappy-self-heal */
+html body .index-hero-section__card h3.index-hero-section__subtitle { line-height: 1.3 !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
