@@ -5354,45 +5354,6 @@ html body .index-hero-section__card h3.index-hero-section__subtitle {
 html body #zappy-section-4.index-hero-section__card { max-width: 88vw !important; }
 html body #zappy-section-4.index-hero-section__card { width: auto !important; }
 
-
-.index-showcase-section .showcase-description h3 {
-  font-size: 1.5rem !important;
-  line-height: 1.6 !important;
-}
-
-.index-showcase-section .showcase-description p {
-  font-size: 1.06rem !important;
-  line-height: 1.75 !important;
-}
-
-.index-showcase-section .principle-item {
-  font-size: 1.12rem !important;
-  line-height: 1.7 !important;
-}
-
-.index-showcase-section .principles-summary {
-  font-size: 1.06rem !important;
-  line-height: 1.75 !important;
-}
-
-.index-showcase-section .highlight-card p {
-  font-size: 1.06rem !important;
-  line-height: 1.7 !important;
-}
-/* zappy-self-heal */
-.index-showcase-section .showcase-description h3 { line-height: 1.6 !important; }
-.index-showcase-section .showcase-description p { line-height: 1.75 !important; }
-.index-showcase-section .principle-item { line-height: 1.7 !important; }
-.index-showcase-section .principles-summary { line-height: 1.75 !important; }
-.index-showcase-section .highlight-card p { line-height: 1.7 !important; }
-
-/* zappy-self-heal */
-html body .index-showcase-section .showcase-description h3 { line-height: 1.6 !important; }
-html body .index-showcase-section .showcase-description p { line-height: 1.75 !important; }
-html body .index-showcase-section .principle-item { line-height: 1.7 !important; }
-html body .index-showcase-section .principles-summary { line-height: 1.75 !important; }
-html body .index-showcase-section .highlight-card p { line-height: 1.7 !important; }
-
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
