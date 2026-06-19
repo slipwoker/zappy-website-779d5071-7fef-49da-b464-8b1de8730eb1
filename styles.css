@@ -2259,11 +2259,11 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 @media (max-width: 768px) {
   .index-hero-section {
-    min-height: auto;
-    padding-bottom: 80px;
-    align-items: flex-start;
-    padding-top: 100px;
-  }
+  min-height: auto;
+  padding-bottom: 80px;
+  align-items: flex-start;
+  padding-top: 100px;
+}
 
   .index-hero-section__content {
     padding: 0 16px;
@@ -5329,6 +5329,13 @@ html, body {
 /* zappy-self-heal */
 html body .index-hero-section__card h3.index-hero-section__subtitle { line-height: 1.3 !important; }
 
+
+@media (max-width: 768px) {
+#hero-dup-1780931148826.index-hero-section {
+  min-height: auto !important;
+  padding-bottom: 80px !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
