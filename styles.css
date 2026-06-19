@@ -2115,7 +2115,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   display: flex;
   flex-direction: column;
   gap: 24px;
-  margin-inline-start: 0;
+  margin-inline-start: auto !important;
   margin-inline-end: 0px !important;
   margin-inline: 0px auto;
 }
