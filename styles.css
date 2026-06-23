@@ -2126,15 +2126,15 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   border-radius: var(--radius-card, 8px);
   border: 1px solid var(--border-light, #E8E0D3);
   box-shadow: 0 8px 32px rgba(26, 74, 74, 0.12);
-  padding: 24px 24px 20px;
-  max-width: 380px;
+  padding: 18px 20px 16px !important;
+  max-width: 360px !important;
   width: 100%;
   color: var(--text-dark);
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 8px !important;
   margin-inline-start: auto !important;
-  margin-inline-end: 0px !important;
+  margin-inline-end: 4px !important;
 }
 
 .index-hero-section__card-accent {
@@ -2276,7 +2276,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 @media (max-width: 768px) {
 .index-hero-section {
-  min-height: 600px !important;
+  min-height: 450px !important;
   padding-bottom: 60px !important;
   align-items: flex-start;
   padding-top: 80px !important;
@@ -5386,20 +5386,21 @@ html body .index-hero-section__card h3.index-hero-section__subtitle {
 #hero-dup-1780931148826.index-hero-section {
   padding-top: 70px !important;
   padding-bottom: 40px !important;
-  min-height: 600px !important;
+  min-height: 450px !important;
 }
 }
 
 #zappy-section-4.index-hero-section__card {
-  max-width: 380px;
-  gap: 10px;
+  max-width: 360px !important;
+  gap: 8px !important;
+  width: auto !important;
 }
 
 #zappy-section-4.index-hero-section__card { width: auto !important; }
 
 html body #zappy-section-4.index-hero-section__card {
-  max-width: 380px;
-  width: auto;
+  max-width: 360px !important;
+  width: auto !important;
 }
 
 html body #zappy-section-4.index-hero-section__card { width: auto !important; }
