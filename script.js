@@ -1459,6 +1459,27 @@ window.onload = function() {
 // No JavaScript required for this static showcase section.
 // Floating card uses CSS hover for subtle interaction.
 
+/* Added Component Script */
+// Optional: Add subtle parallax effect on scroll
+document.addEventListener('DOMContentLoaded', function() {
+  const heroImage = document.querySelector('.hero-bg-image');
+  if (!heroImage) return;
+  
+  let ticking = false;
+  
+  window.addEventListener('scroll', function() {
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        const scrolled = window.pageYOffset;
+        const rate = scrolled * 0.4;
+        heroImage.style.transform = `translateY(${rate}px)`;
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
+});
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
