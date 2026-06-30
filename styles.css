@@ -6271,6 +6271,19 @@ html body html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .navbar .nav-c
     left: -12px;
   }
 }
+
+@media (max-width: 768px) {
+#hero-dup-1782405999044.index-hero-section {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+  min-height: 100svh !important;
+}
+
+#hero-dup-1782405999044 .hero-bg-image {
+  background-size: cover !important;
+  background-position: center !important;
+}
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
