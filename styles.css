@@ -6284,6 +6284,10 @@ html body html:not([dir="rtl"]):not([lang="he"]):not([lang="ar"]) .navbar .nav-c
   background-position: center !important;
 }
 }
+
+.index-contact-section .form-error {
+  display: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
